@@ -14,10 +14,10 @@ Benchmarked: Evaluated using MuRIL, BERT, and other transformer architectures.
 
 The dataset is provided in a standard 4-column format suitable for NER tasks:
 
-**Sl.** for	'Serial Number'.
-**Text** for 'The full sentence/context extracted from the textbook'.
-**ME** for	'The specific Mathematical Entity identified within the text'.
-**Label** for	'The category assigned to the entity'(see Taxonomy below).
+1. **Sl.** for	'Serial Number'.
+2. **Text** for 'The full sentence/context extracted from the textbook'.
+3. **ME** for	'The specific Mathematical Entity identified within the text'.
+4. **Label** for	'The category assigned to the entity'(see Taxonomy below).
 
 # Entity Taxonomy (6 Labels)
 
