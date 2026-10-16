@@ -29,3 +29,8 @@ We follow a strict protocol to balance linguistic specificity with domain covera
 4. **GS** (Geometry & Shapes): Terms for shapes and graphs (e.g., ত্ৰিভুজ, দণ্ডচিত্ৰ).
 5. **FF** (Functions & Formulae): Complex identities and equations (e.g., $sin^2\theta + cos^2\theta = 1$).
 6. **U** (Units): Standard measurements (e.g., গ্ৰাম, মিটাৰ).
+
+## Cite as:
+
+**P. J. Baruah, A. Paul and V. S. Snehal, "Named Entity Recognition for Mathematical Texts using Transformer-Based Encoders for Assamese with Corpus Creation," 2026 IEEE Guwahati Subsection Conference (GCON), Guwahati, India, 2026, pp. 1-6, doi: 10.1109/GCON69192.2026.11648964.**
+
